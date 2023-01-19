@@ -1,3 +1,7 @@
+#Assignment Output Gif
+
+![](https://github.com/abhijeet141/Assignment1-React-Js/blob/main/src/assignment1.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
